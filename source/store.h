@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////
-/// Ivan Solodyankin & Simaon Mai
+/// Ivan Solodyankin & Simon Mai
 /// CS2 Final Project
 /// Purpsoe: Create an base store 
 /// Project completd 12 December 2018
