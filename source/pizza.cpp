@@ -55,7 +55,7 @@ void pizza::displayVectorP(vector<pizza> &newPizza)
  
  void pizza::selectPizza()
  {
-     // food items in burger stacks
+     // food items in pizza store
     vector<pizza> pizzas;
     pizzas.push_back(pizza("#1 Pepperoni Pizza $", 3.99));
     pizzas.push_back(pizza("#2 Hawaiian Pizza $", 4.99));
