@@ -90,6 +90,7 @@ void burger::displayVector(vector<burger> &newBurger)
 
  void burger::displayOrder()
  {
+     // display user order from order vector
     cout << "====== YOUR ORDER ======" << endl;
     cout << orders[0].getBurger() << orders[0].getPrice() << endl;
     cout << drinkOrders[0] << " $" << drinkPrice << endl;
