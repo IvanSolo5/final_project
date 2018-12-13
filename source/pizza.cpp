@@ -63,7 +63,7 @@ void pizza::displayVectorP(vector<pizza> &newPizza)
     pizzas.push_back(pizza("#4 Meatlovers Pizza $",5.49));
     pizzas.push_back(pizza("#5 Anchovy Pizza $", 4.49));
     pizzas.push_back(pizza("#6 Veggie Supreme Pizza $", 4.25));
-   // display burgerstacks menu if burgerstacks was chosen
+   // display burgerstacks menu if pizza store was chosen
 
     int pizzaPick;
     double total;
