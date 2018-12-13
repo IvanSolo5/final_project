@@ -64,7 +64,7 @@ void chinese::displayVectorC(vector<chinese> &newChinese)
     chineseFood.push_back(chinese("#5 Fried Rice $", 4.49));
     chineseFood.push_back(chinese("#6 Egg Rolls (x2) $", 4.25));
 
-   // display chinese food  menu if burgerstacks was chosen
+   // display chinese food  menu if chinese store was chosen
     int chinesePick;
     double total;
     cout << "\nHi! Welcome to Chinese Overload!" << endl;
