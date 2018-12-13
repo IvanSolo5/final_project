@@ -1,3 +1,9 @@
+/////////////////////////////////////////////////////////
+/// Ivan Solodyankin & Simaon Mai
+/// CS2 Final Project
+/// Purpsoe: Create an base store 
+/// Project completd 12 December 2018
+//////////////////////////////////////////////////////////
 #include<iostream>
 #include<string>
 #include<vector>
@@ -16,16 +22,14 @@ class store
         double drinkItemPrice;
         vector <string> orders;
         
+        
     public:
         store();
         store(string food, string drink);
-        string getFood();
-        string getDrink();
-        double getFoodPrice();
-        double getDrinkPrice();
-        void makeOrder();
-        void addTip();
-
+        void displayStore();
+        void selectStore();
+        void displayDrinks(vector<string> d);
+        vector<string> drinkOrders;
 };
 
 #endif
