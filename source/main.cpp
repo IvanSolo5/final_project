@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////
-/// Ivan Solodyankin & Simaon Mai
+/// Ivan Solodyankin & Simon Mai
 /// CS2 Final Project
 /// Purpsoe: Create an ordering system that prints receipts 
 /// to a master file, and individual store file.
