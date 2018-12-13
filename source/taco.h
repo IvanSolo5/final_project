@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////
-/// Ivan Solodyankin & Simaon Mai
+/// Ivan Solodyankin & Simon Mai
 /// CS2 Final Project
 /// Purpsoe: Create an taco store that sells food and drink
 /// Project completd 12 December 2018
